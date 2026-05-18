@@ -12,7 +12,7 @@
 
 ## Motivation
 
-**SCDT** introduces noise modulation into a unified framework to handling various scenerios.
+**SCDT** introduces noise modulation into a unified framework to handle various scenerios.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/89a3772a-41b8-48eb-b6b7-2d46d302db1c" width="85%">
