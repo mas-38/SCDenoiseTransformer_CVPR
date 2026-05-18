@@ -8,10 +8,6 @@
   <b>CVPR 2026</b>
 </p>
 
-<p align="center">
-  <a href="#">Code Coming Soon</a>
-</p>
-
 ---
 
 ## Overview
