@@ -10,15 +10,6 @@
 
 ---
 
-## Overview
-
-This repository provides the official implementation of **SCDT**, a novel framework designed for robust visual tracking.  
-The proposed method aims to improve feature representation, modality interaction, and target localization through a carefully designed backbone and feature modeling strategy.
-
-> **Code will be released soon.**
-
----
-
 ## Motivation
 
 **SCDT** introduces noise modulation into a unified framework to handling various scenerios.
