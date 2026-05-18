@@ -38,18 +38,6 @@
 
 ---
 
-## Visualization
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/65bbaf91-a390-4b1a-b6a4-011476b4afe9" width="90%">
-</p>
-
-<p align="center">
-  <em>Figure 3. Visualization results of SCDT.</em>
-</p>
-
----
-
 ## Results
 
 <p align="center">
@@ -57,7 +45,21 @@
 </p>
 
 <p align="center">
-  <em>Figure 4. Quantitative comparison results on multiple benchmarks.</em>
+  <em>Figure 3. Quantitative comparison results on multiple benchmarks.</em>
 </p>
 
 ---
+
+## Visualization
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65bbaf91-a390-4b1a-b6a4-011476b4afe9" width="90%">
+</p>
+
+<p align="center">
+  <em>Figure 4. Visualization results of SCDT.</em>
+</p>
+
+---
+
+
