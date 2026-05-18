@@ -49,3 +49,15 @@
 </p>
 
 ---
+
+## Results
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a78af5e7-2a9f-4676-8fb7-8d3230c88f39" width="95%">
+</p>
+
+<p align="center">
+  <em>Figure 4. Quantitative comparison results on multiple benchmarks.</em>
+</p>
+
+---
